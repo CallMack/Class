@@ -1,1 +1,41 @@
-body {background-color: darkkhaki;}
+h1{color: red;}
+
+#unique{color: aquamarine;}
+h1.green {
+    background-color: whitesmoke; 
+    text-align: center;
+    color:black; 
+    font-style: italic;
+    font-size: 30px; 
+    font-weight:bold;
+    color: green;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+	letter-spacing: 3px;
+
+
+
+}
+a:link, a:visited{
+    background-color: red;font-style: italic;
+    color: green;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+	letter-spacing: 3px;
+    
+}
+a:hover,a:active{
+    background-color: violet;
+    color: green;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+	letter-spacing: 3px;
+}
+nav {background-color: white; display: inline-block;}
+a {margin-left: 20px ; margin-right: 20px;}
+body {background-color: black; text-align: center; color: white}
+ul{list-style-type: none; margin: 0; padding: 0;}
+li {display:inline}
